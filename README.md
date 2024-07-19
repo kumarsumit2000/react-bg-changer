@@ -1,5 +1,5 @@
 # React + Vite
-
+ This is the main code that we need to understand
 ```javascript
 import { useState } from "react";
 
